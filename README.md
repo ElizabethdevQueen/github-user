@@ -1,7 +1,6 @@
 # Github Users search
 
-Deployment
-Page Link: [Github user search Page](https://github-user-searchreactjs.netlify.app)
+Deployment Page Link: [Github user search Page](https://github-user-searchreactjs.netlify.app)
 
 ## the dependencies
 
